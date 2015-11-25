@@ -2,6 +2,12 @@
 
 The following is a brief guide on how you can get started working on connector:
 
+#Install the bundle command
+
+**Terminal**
+
+    gem install bundler
+
 # Postgresql Setup:
 
 If you do not have Postgres on your machine, please install it: http://www.postgresql.org/download/
